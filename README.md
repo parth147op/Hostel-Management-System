@@ -38,9 +38,6 @@ A comprehensive Hostel Management System designed for administrators to efficien
 
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss the proposed change.
 
-## License
-
-This project is open-source. Kindly respect the work of original authors and contributors.
 
 ## Acknowledgements
 
