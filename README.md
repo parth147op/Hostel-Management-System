@@ -23,16 +23,17 @@ A comprehensive Hostel Management System designed for administrators to efficien
 - Web server environment (e.g., XAMPP, MAMP, WAMP)
 - MySQL
 
-### Installation
+### Installation & Setup Guide
 
 1. **Set Up Database**
-   - Import `hostel.sql` into your MySQL database to create all necessary tables.
+   - Load the `hostel.sql` file into your MySQL environment to initialize required tables.
 
 2. **Configuration**
-   - Modify the `connect.php` file to adjust the database connection settings according to your environment.
+   - Update the `connect.php` file to reflect your specific database connection parameters.
 
 3. **Run**
-   - Start your web server and navigate to the project directory.
+   - Initiate your web server and direct it to the project's root directory.
+   - For security considerations, direct admin registration isn't available. Manually insert an admin entry in the `admin` table through phpMyAdmin to gain initial access.
 
 ## Contribution
 
